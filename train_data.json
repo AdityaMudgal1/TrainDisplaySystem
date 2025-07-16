@@ -1,0 +1,26 @@
+﻿[
+  {
+    "TrainNo": "12345",
+    "TrainNameEn": "Shatabdi Express",
+    "TrainNameHi": "शताब्दी एक्सप्रेस",
+    "ArrivalTime": "10:30 AM",
+    "DepartureTime": "10:45 AM",
+    "Platform": "1"
+  },
+  {
+    "TrainNo": "12951",
+    "TrainNameEn": "Rajdhani Express",
+    "TrainNameHi": "राजधानी एक्सप्रेस",
+    "ArrivalTime": "11:00 AM",
+    "DepartureTime": "11:15 AM",
+    "Platform": "3"
+  },
+  {
+    "TrainNo": "12001",
+    "TrainNameEn": "Jan Shatabdi",
+    "TrainNameHi": "जन शताब्दी",
+    "ArrivalTime": "12:00 PM",
+    "DepartureTime": "12:10 PM",
+    "Platform": "2"
+  }
+]
